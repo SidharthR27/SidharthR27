@@ -7,7 +7,7 @@
 - 🔍 Lifelong learner, constantly honing my skills in **machine learning**, **cybersecurity**, and **web development**.
 
 ## 🛠️ Technical Expertise
-- **Languages & Frameworks:** Python, R, HTML, CSS, JavaScript, React, Django, Flask.  
+- **Languages & Frameworks:** Python, Django, Flask, HTML, CSS, JavaScript, React, TailwindCSS, Bootstrap.  
 - **Specialized Skills:** Full Stack Development, Cybersecurity, Data Analysis.  
 - **Tools & Platforms:** Git, GitHub, Linux.
 
